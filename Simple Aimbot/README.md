@@ -1,6 +1,6 @@
 ## How To Use
 Have Python installed.
-Open CMD and set the directory to where the file is located. Type ```cmd
+Open CMD and set the directory to where the file is located. Type ```ps1
 python aimbot.py```
 ## Keybinds
 - ~: Toggle
